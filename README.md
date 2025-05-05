@@ -11,8 +11,5 @@
 - Natural Language Processing
 
 📫 How to reach me:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-📈 GitHub Stats:
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarthakChaurasia01&show_icons=true&theme=radical)
+- Email: chaurasia.sarthak08@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/sarthak-chaurasia-256392324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
